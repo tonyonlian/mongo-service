@@ -1,0 +1,16 @@
+{
+  "name": "mongo-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^10.5.2",
+    "mongodb": "^2.2.27"
+  }
+}
